@@ -1024,3 +1024,9 @@ rev-parse --is-inside-git-dir
 Date: Mon Jan  9 12:34:41 PST 2012
 rev-parse --is-inside-work-tree
 Date: Mon Jan  9 12:34:41 PST 2012
+achievements list
+Date: Sat Jan 14 13:03:25 PST 2012
+achievements list -l
+Date: Sat Jan 14 13:03:29 PST 2012
+achievements -l
+Date: Sat Jan 14 13:03:40 PST 2012
