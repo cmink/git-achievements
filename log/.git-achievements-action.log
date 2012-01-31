@@ -1024,15 +1024,1647 @@ rev-parse --is-inside-git-dir
 Date: Mon Jan  9 12:34:41 PST 2012
 rev-parse --is-inside-work-tree
 Date: Mon Jan  9 12:34:41 PST 2012
+add README git-achievements index.html index.rss log style.css test
+Date: Mon Jan  9 12:34:59 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:35:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:35:00 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:35:01 PST 2012
+status 
+Date: Mon Jan  9 12:35:03 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:35:03 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:35:04 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:35:04 PST 2012
+commit 
+Date: Mon Jan  9 12:35:55 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:36:10 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:36:10 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:36:11 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:40:50 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:40:50 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:40:51 PST 2012
+status 
+Date: Mon Jan  9 12:40:52 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:40:53 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:40:53 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:40:54 PST 2012
+gc
+Date: Mon Jan  9 12:40:59 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:41:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:41:00 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:41:01 PST 2012
+gc
+Date: Mon Jan  9 12:41:08 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:41:09 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:41:09 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:41:10 PST 2012
+status 
+Date: Mon Jan  9 12:41:14 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:41:15 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:41:15 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:41:16 PST 2012
+log --graph 
+Date: Mon Jan  9 12:41:21 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 12:41:22 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 12:41:22 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 12:41:23 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 16:07:12 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 16:07:12 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 16:07:13 PST 2012
+status 
+Date: Mon Jan  9 16:07:17 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 16:07:18 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 16:07:18 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 16:07:19 PST 2012
+commit -a
+Date: Mon Jan  9 16:12:09 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 16:12:10 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 16:12:11 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 16:12:12 PST 2012
+gc
+Date: Mon Jan  9 16:13:45 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 16:13:45 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 16:13:46 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 16:13:46 PST 2012
+gc
+Date: Mon Jan  9 16:13:53 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 16:14:08 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 16:14:08 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 16:14:09 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:21:31 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:21:32 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:21:32 PST 2012
+status 
+Date: Mon Jan  9 17:21:34 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:21:34 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:21:35 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:21:35 PST 2012
+push
+Date: Mon Jan  9 17:21:44 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:21:45 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:21:45 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:21:46 PST 2012
+log
+Date: Mon Jan  9 17:22:10 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:22:11 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:22:11 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:22:12 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:23:04 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:23:05 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:23:05 PST 2012
+status 
+Date: Mon Jan  9 17:23:07 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:23:08 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:23:08 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:23:09 PST 2012
+branch -a
+Date: Mon Jan  9 17:23:11 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:23:11 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:23:12 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:23:12 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:24:55 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:24:56 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:24:57 PST 2012
+push origin :test_animate
+Date: Mon Jan  9 17:25:19 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:25:20 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:25:20 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:25:21 PST 2012
+push origin :feature/3-steps
+Date: Mon Jan  9 17:25:48 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:25:48 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:25:49 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:25:50 PST 2012
+branch 0-a
+Date: Mon Jan  9 17:26:07 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:26:08 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:28:46 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:28:47 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:28:47 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:28:48 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:28:48 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:28:49 PST 2012
+branch -a
+Date: Mon Jan  9 17:28:51 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan  9 17:28:52 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan  9 17:28:52 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan  9 17:28:53 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 13:35:24 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 13:35:25 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 13:35:25 PST 2012
+branch 
+Date: Tue Jan 10 13:35:27 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 13:35:28 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 13:35:28 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 13:35:29 PST 2012
+status 
+Date: Tue Jan 10 13:35:30 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 13:35:31 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 13:35:31 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 13:35:32 PST 2012
+status 
+Date: Tue Jan 10 13:46:57 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 13:46:58 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 13:46:58 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 13:46:58 PST 2012
+--git-dir=.git config --get alias.co
+Date: Tue Jan 10 13:47:03 PST 2012
+--git-dir=.git config --get alias.co
+Date: Tue Jan 10 13:47:03 PST 2012
+checkout src/DrawAJelly.fla
+Date: Tue Jan 10 13:47:04 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 13:47:04 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 13:47:05 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 13:47:05 PST 2012
+init
+Date: Tue Jan 10 17:44:42 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 17:45:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 17:45:00 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 17:45:01 PST 2012
+status 
+Date: Tue Jan 10 17:45:04 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 17:45:05 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 17:45:05 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 17:45:06 PST 2012
+add OnScreenKeyboard.as3proj bin fla lib obj src test
+Date: Tue Jan 10 17:45:10 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 17:45:11 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 17:45:11 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 17:45:11 PST 2012
+status 
+Date: Tue Jan 10 17:45:13 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 17:45:14 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 17:45:14 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 17:45:15 PST 2012
+commit 
+Date: Tue Jan 10 17:46:03 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 10 17:46:19 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 10 17:46:19 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 10 17:46:20 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 11:57:56 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 11:57:56 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 11:57:57 PST 2012
+status 
+Date: Wed Jan 11 11:57:59 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 11:57:59 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 11:58:00 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 11:58:00 PST 2012
+init
+Date: Wed Jan 11 12:01:25 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:01:26 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:01:27 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:01:27 PST 2012
+status 
+Date: Wed Jan 11 12:01:36 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:01:37 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:01:37 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:01:38 PST 2012
+config --local -e
+Date: Wed Jan 11 12:02:05 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:02:06 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:02:06 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:02:06 PST 2012
+status 
+Date: Wed Jan 11 12:02:37 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:02:37 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:02:38 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:02:38 PST 2012
+status 
+Date: Wed Jan 11 12:03:44 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:03:45 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:03:45 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:03:46 PST 2012
+add OnScreenKeyboard.as3proj
+Date: Wed Jan 11 12:03:49 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:03:50 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:03:50 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:03:51 PST 2012
+add fla
+Date: Wed Jan 11 12:03:56 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:03:57 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:03:57 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:03:58 PST 2012
+status 
+Date: Wed Jan 11 12:03:59 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:04:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:04:00 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:04:00 PST 2012
+add src
+Date: Wed Jan 11 12:04:04 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:04:05 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:04:05 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:04:06 PST 2012
+add lib
+Date: Wed Jan 11 12:04:09 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:04:10 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:04:10 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:04:11 PST 2012
+add test
+Date: Wed Jan 11 12:04:13 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:04:14 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:04:15 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:04:15 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:04:18 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:04:19 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:04:19 PST 2012
+status 
+Date: Wed Jan 11 12:04:20 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:04:21 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:04:21 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:04:22 PST 2012
+commit 
+Date: Wed Jan 11 12:09:52 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:09:53 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:09:54 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:09:54 PST 2012
+status 
+Date: Wed Jan 11 12:10:05 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:10:06 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:10:06 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:10:07 PST 2012
+diff
+Date: Wed Jan 11 12:10:11 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 12:10:12 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 12:10:12 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 12:10:12 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:19:53 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:19:54 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:19:54 PST 2012
+status 
+Date: Wed Jan 11 14:30:20 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:30:20 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:30:21 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:30:21 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:30:53 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:30:53 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:30:54 PST 2012
+flow feature
+Date: Wed Jan 11 14:30:59 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:31:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:31:01 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:31:01 PST 2012
+flow feature finish one-layer-drawing
+Date: Wed Jan 11 14:31:21 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:31:22 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:31:22 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:31:23 PST 2012
+status 
+Date: Wed Jan 11 14:31:37 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:31:38 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:31:38 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:31:39 PST 2012
+gc
+Date: Wed Jan 11 14:31:48 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:31:49 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:31:49 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:31:50 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:32:05 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:32:05 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:32:06 PST 2012
+log --graph 
+Date: Wed Jan 11 14:32:09 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:32:09 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:32:10 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:32:10 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:32:12 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:32:13 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:32:13 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:32:15 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:32:15 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:32:16 PST 2012
+branch -a
+Date: Wed Jan 11 14:33:58 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:33:58 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:33:59 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:33:59 PST 2012
+flow feature start eraser-tool
+Date: Wed Jan 11 14:34:21 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 11 14:34:22 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 11 14:34:22 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 11 14:34:23 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:47:48 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:47:48 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:47:49 PST 2012
+branch -a
+Date: Thu Jan 12 10:48:11 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:48:12 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:48:12 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:48:13 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:49:59 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:50:00 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:50:00 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:54:10 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:54:11 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:54:11 PST 2012
+remote show origin
+Date: Thu Jan 12 10:54:17 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:54:17 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:54:18 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:54:18 PST 2012
+branch -a
+Date: Thu Jan 12 10:54:36 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:54:36 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:54:37 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:54:37 PST 2012
+--git-dir=.git config --get alias.br
+Date: Thu Jan 12 10:55:26 PST 2012
+--git-dir=.git config --get alias.br
+Date: Thu Jan 12 10:55:27 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:55:34 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:55:34 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:55:35 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:55:47 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:55:48 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:55:48 PST 2012
+push origin :feature/away3d-jelly-anim
+Date: Thu Jan 12 10:56:32 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:56:33 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:56:33 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:56:34 PST 2012
+remote show origin
+Date: Thu Jan 12 10:56:40 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:56:40 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:56:40 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:56:41 PST 2012
+push origin :control_panel
+Date: Thu Jan 12 10:57:48 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:57:49 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:57:49 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:57:50 PST 2012
+branch -a
+Date: Thu Jan 12 10:57:52 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:57:53 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:57:53 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:57:54 PST 2012
+remote show origin
+Date: Thu Jan 12 10:58:00 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 10:58:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 10:58:01 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 10:58:01 PST 2012
+init --bare on-screen-keyboard.git
+Date: Thu Jan 12 10:59:25 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:00:16 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:00:17 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:00:17 PST 2012
+status 
+Date: Thu Jan 12 11:00:19 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:00:20 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:00:20 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:00:21 PST 2012
+diff
+Date: Thu Jan 12 11:00:24 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:00:25 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:00:25 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:00:26 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:01:48 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:01:49 PST 2012
+rev-parse --is-bare-repository
+Date: Thu Jan 12 11:01:49 PST 2012
+config -e
+Date: Thu Jan 12 11:02:29 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:02:30 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:02:31 PST 2012
+rev-parse --is-bare-repository
+Date: Thu Jan 12 11:02:32 PST 2012
+config core.sharedrepository 1
+Date: Thu Jan 12 11:02:44 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:02:45 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:02:46 PST 2012
+rev-parse --is-bare-repository
+Date: Thu Jan 12 11:02:46 PST 2012
+config receive.denyNonFastforwards true
+Date: Thu Jan 12 11:03:23 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:03:24 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:03:24 PST 2012
+rev-parse --is-bare-repository
+Date: Thu Jan 12 11:03:25 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:03:35 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:03:36 PST 2012
+rev-parse --is-bare-repository
+Date: Thu Jan 12 11:03:36 PST 2012
+config -l
+Date: Thu Jan 12 11:03:40 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:03:41 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:03:41 PST 2012
+rev-parse --is-bare-repository
+Date: Thu Jan 12 11:03:42 PST 2012
+config -e
+Date: Thu Jan 12 11:03:58 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:03:59 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:03:59 PST 2012
+rev-parse --is-bare-repository
+Date: Thu Jan 12 11:04:00 PST 2012
+remote add origin V:\Library Repos\on-screen-keyboard.git
+Date: Thu Jan 12 11:06:05 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:06:06 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:06:06 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:06:07 PST 2012
+remote show origin
+Date: Thu Jan 12 11:06:16 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:06:16 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:06:17 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:06:17 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:06:29 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:06:29 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:06:30 PST 2012
+push origin master
+Date: Thu Jan 12 11:06:42 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:06:42 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:06:43 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:06:43 PST 2012
+remote show origin
+Date: Thu Jan 12 11:06:45 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:06:46 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:06:46 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:06:47 PST 2012
+checkout origin/master
+Date: Thu Jan 12 11:07:32 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:07:33 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:07:33 PST 2012
+branch -f master origin/master
+Date: Thu Jan 12 11:08:14 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:08:15 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:08:16 PST 2012
+checkout master
+Date: Thu Jan 12 11:08:20 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:08:20 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:08:21 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:08:21 PST 2012
+status 
+Date: Thu Jan 12 11:08:23 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:08:23 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:08:24 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:08:24 PST 2012
+remote show origin
+Date: Thu Jan 12 11:08:32 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:08:33 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:08:33 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:08:34 PST 2012
+status 
+Date: Thu Jan 12 11:08:47 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:08:47 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:08:48 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:08:48 PST 2012
+status 
+Date: Thu Jan 12 11:09:58 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:09:59 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:09:59 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:10:00 PST 2012
+log
+Date: Thu Jan 12 11:10:06 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:10:07 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:10:07 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:10:08 PST 2012
+status 
+Date: Thu Jan 12 11:10:14 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:10:15 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:10:15 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:10:16 PST 2012
+gc
+Date: Thu Jan 12 11:10:22 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:10:23 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:10:23 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:10:24 PST 2012
+commit -a
+Date: Thu Jan 12 11:11:06 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 11:11:30 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 11:11:31 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 11:11:31 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:21:14 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:21:15 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:21:15 PST 2012
+help -a
+Date: Thu Jan 12 15:21:45 PST 2012
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Jan 12 15:21:46 PST 2012
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Jan 12 15:21:47 PST 2012
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Jan 12 15:21:47 PST 2012
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Jan 12 15:21:48 PST 2012
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Jan 12 15:21:48 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:21:56 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:21:57 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:21:58 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:24:05 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:24:06 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:24:06 PST 2012
+help -a
+Date: Thu Jan 12 15:45:01 PST 2012
+--git-dir= config --get-regexp alias\..*
+Date: Thu Jan 12 15:45:02 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:46:41 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:46:42 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:46:43 PST 2012
+flow feature finish eraser-tool
+Date: Thu Jan 12 15:47:11 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:47:13 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:47:13 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:47:14 PST 2012
+status 
+Date: Thu Jan 12 15:47:17 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:47:18 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:47:18 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:47:19 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:47:21 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:47:22 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:47:23 PST 2012
+flow support help
+Date: Thu Jan 12 15:47:38 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:47:39 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:47:40 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:47:41 PST 2012
+flow version
+Date: Thu Jan 12 15:47:54 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:47:55 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:47:56 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:47:56 PST 2012
+flow feature start navigation-changes
+Date: Thu Jan 12 15:49:23 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 15:49:49 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 15:49:49 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 15:49:50 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 17:29:35 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 17:29:36 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 17:29:37 PST 2012
+push
+Date: Thu Jan 12 17:29:43 PST 2012
+symbolic-ref HEAD
+Date: Thu Jan 12 17:29:44 PST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jan 12 17:29:44 PST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jan 12 17:29:45 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:48:29 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:48:30 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:48:30 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:48:32 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:48:32 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:48:33 PST 2012
+mv Step1.psd Step2.psd Step3.psd Step4.psd ./PSDs
+Date: Fri Jan 13 10:48:47 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:48:48 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:48:48 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:48:49 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:48:51 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:48:51 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:48:52 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:48:55 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:48:56 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:48:56 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:48:57 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:48:57 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:48:58 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:48:59 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:48:59 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:49:00 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:49:01 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:49:01 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:49:01 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:49:02 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:49:03 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:49:03 PST 2012
+mv PrintOutDoc.psd ./PSDs
+Date: Fri Jan 13 10:49:19 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 10:49:19 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 10:49:20 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 10:49:21 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 18:00:49 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 18:00:50 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 18:00:50 PST 2012
+flow feature finish navigation-changes
+Date: Fri Jan 13 18:01:05 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 18:01:06 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 18:01:07 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 18:01:08 PST 2012
+status 
+Date: Fri Jan 13 18:01:16 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 18:01:17 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 18:01:17 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 18:01:18 PST 2012
+gc
+Date: Fri Jan 13 18:01:24 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 13 18:01:25 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 13 18:01:25 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 13 18:01:26 PST 2012
 achievements list
 Date: Sat Jan 14 13:03:25 PST 2012
 achievements list -l
 Date: Sat Jan 14 13:03:29 PST 2012
 achievements -l
 Date: Sat Jan 14 13:03:40 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:18:08 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:18:09 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:18:09 PST 2012
+status 
+Date: Tue Jan 17 11:18:11 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:18:12 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:18:12 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:18:13 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:18:24 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:18:25 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:18:25 PST 2012
+config -e
+Date: Tue Jan 17 11:18:39 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:18:40 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:18:41 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:18:41 PST 2012
+status 
+Date: Tue Jan 17 11:19:17 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:19:18 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:19:19 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:19:19 PST 2012
+add .gitignore
+Date: Tue Jan 17 11:19:24 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:19:25 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:19:25 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:19:26 PST 2012
+status 
+Date: Tue Jan 17 11:19:31 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:19:32 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:19:33 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:19:33 PST 2012
+add src/Version.as
+Date: Tue Jan 17 11:19:45 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:19:46 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:19:46 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:19:47 PST 2012
+add src/com/cmink/ColorWheel/model/
+Date: Tue Jan 17 11:20:03 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:20:04 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:20:04 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:20:05 PST 2012
+status 
+Date: Tue Jan 17 11:20:07 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:20:07 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:20:08 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:20:08 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:20:35 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:20:35 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:20:36 PST 2012
+add lib/bin/ColorWheel.swc
+Date: Tue Jan 17 11:20:41 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:20:42 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:20:42 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:20:43 PST 2012
+status 
+Date: Tue Jan 17 11:20:44 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:20:45 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:20:45 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:20:46 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:21:43 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:21:44 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:21:44 PST 2012
+status 
+Date: Tue Jan 17 11:21:49 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:21:50 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:21:50 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:21:51 PST 2012
+status 
+Date: Tue Jan 17 11:22:29 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:22:30 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:22:30 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:22:30 PST 2012
+mv src/com/cmink/ColorWheel/core/ColorMap.as src/com/cmink/ColorWheel/model/vo/ColorMap.as
+Date: Tue Jan 17 11:22:59 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:23:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:23:00 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:23:01 PST 2012
+status 
+Date: Tue Jan 17 11:23:02 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:23:03 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:23:03 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:23:04 PST 2012
+commit -a
+Date: Tue Jan 17 11:25:11 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:25:12 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:25:12 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:25:13 PST 2012
+status 
+Date: Tue Jan 17 11:25:22 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:25:23 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:25:23 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:25:23 PST 2012
+status 
+Date: Tue Jan 17 11:25:37 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:25:38 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:25:38 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:25:39 PST 2012
+gc
+Date: Tue Jan 17 11:25:45 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 17 11:25:46 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 17 11:25:46 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 17 11:25:47 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:18:16 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:18:17 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:18:18 PST 2012
+status 
+Date: Wed Jan 18 15:18:38 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:18:39 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:18:39 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:18:40 PST 2012
+flow release start 0.6.0
+Date: Wed Jan 18 15:19:04 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:19:06 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:19:06 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:19:07 PST 2012
+status 
+Date: Wed Jan 18 15:23:40 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:23:41 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:23:42 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:23:43 PST 2012
+config -e
+Date: Wed Jan 18 15:27:29 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:27:30 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:27:31 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:27:32 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:27:43 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:27:44 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:27:44 PST 2012
+--help config
+Date: Wed Jan 18 15:27:54 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:27:55 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:27:56 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:27:56 PST 2012
+help
+Date: Wed Jan 18 15:28:19 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:28:19 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:28:20 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:28:20 PST 2012
+status 
+Date: Wed Jan 18 15:40:53 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:40:54 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:40:55 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:40:56 PST 2012
+status 
+Date: Wed Jan 18 15:43:10 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:43:11 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:43:11 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:43:12 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:43:58 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:43:59 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:43:59 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:44:02 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:44:03 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:44:03 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:44:05 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:44:06 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:44:06 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:44:10 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:44:10 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:44:11 PST 2012
+branch -a
+Date: Wed Jan 18 15:44:14 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:44:15 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:44:15 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:44:16 PST 2012
+stash
+Date: Wed Jan 18 15:44:39 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:44:40 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:44:40 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:44:42 PST 2012
+status 
+Date: Wed Jan 18 15:44:49 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:44:50 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:44:50 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:44:51 PST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jan 18 15:44:57 PST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jan 18 15:44:57 PST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jan 18 15:44:58 PST 2012
+checkout development
+Date: Wed Jan 18 15:44:59 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:45:00 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:45:01 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:45:01 PST 2012
+status 
+Date: Wed Jan 18 15:45:10 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:45:11 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:45:12 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:45:12 PST 2012
+status 
+Date: Wed Jan 18 15:45:39 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:45:40 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:45:40 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:45:41 PST 2012
+flow release start 0.6.1
+Date: Wed Jan 18 15:45:55 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:45:56 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:45:56 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:45:57 PST 2012
+stash pop
+Date: Wed Jan 18 15:46:08 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:46:27 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:46:27 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:46:28 PST 2012
+commit -a
+Date: Wed Jan 18 15:47:13 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:47:15 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:47:16 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:47:17 PST 2012
+flow release finish 0.6.1
+Date: Wed Jan 18 15:48:02 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:48:03 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:48:03 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:48:04 PST 2012
+push --help
+Date: Wed Jan 18 15:48:21 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:48:22 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:48:23 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:48:24 PST 2012
+push --all
+Date: Wed Jan 18 15:48:30 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:48:31 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:48:32 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:48:32 PST 2012
+flow feature start optimized-drawing-tool
+Date: Wed Jan 18 15:50:06 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:50:07 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:50:08 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:50:08 PST 2012
+branch -a
+Date: Wed Jan 18 15:50:16 PST 2012
+symbolic-ref HEAD
+Date: Wed Jan 18 15:50:17 PST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jan 18 15:50:17 PST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jan 18 15:50:18 PST 2012
+init
+Date: Mon Jan 23 12:03:05 PST 2012
+symbolic-ref HEAD
+Date: Mon Jan 23 12:03:06 PST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jan 23 12:03:07 PST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jan 23 12:03:07 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:44:43 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:44:44 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:44:45 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:44:58 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:44:58 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:44:59 PST 2012
+stash
+Date: Fri Jan 27 15:45:29 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:45:30 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:45:31 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:45:32 PST 2012
+flow init
+Date: Fri Jan 27 15:45:55 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:45:56 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:45:56 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:45:57 PST 2012
+status 
+Date: Fri Jan 27 15:46:00 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:46:01 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:46:01 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:46:02 PST 2012
+stash pop
+Date: Fri Jan 27 15:46:17 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:46:17 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:46:18 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:46:18 PST 2012
+status 
+Date: Fri Jan 27 15:46:19 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:46:20 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:46:20 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:46:21 PST 2012
+commit -a
+Date: Fri Jan 27 15:47:57 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:47:58 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:47:59 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:47:59 PST 2012
+status 
+Date: Fri Jan 27 15:48:04 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:05 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:05 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:06 PST 2012
+add AIR_readme.txt
+Date: Fri Jan 27 15:48:15 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:16 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:16 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:17 PST 2012
+add PackageApp.bat
+Date: Fri Jan 27 15:48:22 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:22 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:23 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:23 PST 2012
+add application.xml
+Date: Fri Jan 27 15:48:27 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:27 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:28 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:28 PST 2012
+add bat
+Date: Fri Jan 27 15:48:31 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:32 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:32 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:33 PST 2012
+add lib/
+Date: Fri Jan 27 15:48:36 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:37 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:38 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:38 PST 2012
+status 
+Date: Fri Jan 27 15:48:42 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:42 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:43 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:43 PST 2012
+add Run.bat
+Date: Fri Jan 27 15:48:47 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:48:47 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:48:48 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:48:48 PST 2012
+commit -a
+Date: Fri Jan 27 15:49:37 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:49:38 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:49:39 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:49:39 PST 2012
+status 
+Date: Fri Jan 27 15:49:42 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:49:42 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:49:43 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:49:43 PST 2012
+gc
+Date: Fri Jan 27 15:50:05 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:50:06 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:50:06 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:50:07 PST 2012
+log --graph 
+Date: Fri Jan 27 15:50:10 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:50:10 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:50:11 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:50:11 PST 2012
+achievements
+Date: Fri Jan 27 15:50:26 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:50:27 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:50:27 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:50:28 PST 2012
+achievements -l
+Date: Fri Jan 27 15:50:30 PST 2012
+symbolic-ref HEAD
+Date: Fri Jan 27 15:50:31 PST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jan 27 15:50:31 PST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jan 27 15:50:32 PST 2012
 pull 
 Date: Fri Jan 27 19:01:32 PST 2012
 status 
 Date: Fri Jan 27 19:01:41 PST 2012
 diff
 Date: Fri Jan 27 19:01:47 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 31 11:54:49 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 31 11:54:50 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 31 11:54:50 PST 2012
+status 
+Date: Tue Jan 31 11:55:01 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 31 11:55:02 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 31 11:55:03 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 31 11:55:03 PST 2012
+add AIR_readme.txt
+Date: Tue Jan 31 11:56:33 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 31 11:56:34 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 31 11:56:34 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 31 11:56:35 PST 2012
+add bat
+Date: Tue Jan 31 11:56:41 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 31 11:56:42 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 31 11:56:43 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 31 11:56:43 PST 2012
+add src
+Date: Tue Jan 31 11:56:47 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 31 11:56:47 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 31 11:56:48 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 31 11:56:48 PST 2012
+add application.xml
+Date: Tue Jan 31 11:56:51 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 31 11:56:52 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 31 11:56:52 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 31 11:56:53 PST 2012
+add Run.bat
+Date: Tue Jan 31 11:57:01 PST 2012
+symbolic-ref HEAD
+Date: Tue Jan 31 11:57:01 PST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jan 31 11:57:02 PST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jan 31 11:57:02 PST 2012
