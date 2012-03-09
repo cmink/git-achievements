@@ -2614,6 +2614,7 @@ status
 Date: Fri Jan 27 19:01:41 PST 2012
 diff
 Date: Fri Jan 27 19:01:47 PST 2012
+<<<<<<< HEAD
 symbolic-ref HEAD
 Date: Tue Jan 31 11:54:49 PST 2012
 rev-parse --is-inside-git-dir
@@ -2668,3 +2669,203 @@ rev-parse --is-inside-git-dir
 Date: Tue Jan 31 11:57:02 PST 2012
 rev-parse --is-inside-work-tree
 Date: Tue Jan 31 11:57:02 PST 2012
+=======
+commit -am Log from my Mac
+Date: Fri Jan 27 19:02:32 PST 2012
+status 
+Date: Fri Jan 27 19:02:38 PST 2012
+push
+Date: Fri Jan 27 19:02:54 PST 2012
+status 
+Date: Fri Jan 27 19:02:56 PST 2012
+diff
+Date: Fri Jan 27 19:04:06 PST 2012
+branch -a
+Date: Fri Jan 27 19:04:27 PST 2012
+checkout --force master
+Date: Fri Jan 27 19:04:32 PST 2012
+pull
+Date: Fri Jan 27 19:04:40 PST 2012
+status 
+Date: Fri Jan 27 19:04:44 PST 2012
+help gc
+Date: Fri Jan 27 19:05:39 PST 2012
+clean -n -d .
+Date: Fri Jan 27 19:06:36 PST 2012
+clean -d -f .
+Date: Fri Jan 27 19:07:11 PST 2012
+status 
+Date: Fri Jan 27 19:07:22 PST 2012
+pull 
+Date: Fri Jan 27 19:07:25 PST 2012
+clean -d -f .
+Date: Fri Jan 27 19:07:50 PST 2012
+status 
+Date: Fri Jan 27 19:07:52 PST 2012
+pull
+Date: Fri Jan 27 19:07:57 PST 2012
+checkout --force master
+Date: Fri Jan 27 19:08:13 PST 2012
+status 
+Date: Fri Jan 27 19:08:15 PST 2012
+status 
+Date: Fri Jan 27 19:09:21 PST 2012
+checkout master
+Date: Fri Jan 27 19:09:25 PST 2012
+status 
+Date: Fri Jan 27 19:09:31 PST 2012
+checkout -- LICENSE.md README.md demo src
+Date: Fri Jan 27 19:09:38 PST 2012
+status 
+Date: Fri Jan 27 19:09:39 PST 2012
+checkout -- CHANGELOG.md
+Date: Fri Jan 27 19:10:24 PST 2012
+checkout --
+Date: Fri Jan 27 19:10:34 PST 2012
+checkout -- ./CHANGELOG.md
+Date: Fri Jan 27 19:10:45 PST 2012
+checkout master
+Date: Fri Jan 27 19:10:55 PST 2012
+checkout -- CHANGELOG.md
+Date: Fri Jan 27 19:11:11 PST 2012
+branch -a
+Date: Fri Jan 27 19:11:17 PST 2012
+status 
+Date: Fri Jan 27 19:11:46 PST 2012
+checkout -- CHANGELOG.md
+Date: Fri Jan 27 19:11:51 PST 2012
+status 
+Date: Fri Jan 27 19:11:54 PST 2012
+checkout -- CHANGELOG.md
+Date: Fri Jan 27 19:12:07 PST 2012
+checkout -- ./starling
+Date: Fri Jan 27 19:12:45 PST 2012
+checkout -- ./CHANGELOG.md ./starling
+Date: Fri Jan 27 19:12:51 PST 2012
+status 
+Date: Fri Jan 27 19:12:56 PST 2012
+checkout -- tests
+Date: Fri Jan 27 19:13:04 PST 2012
+checkout -- samples
+Date: Fri Jan 27 19:13:10 PST 2012
+status 
+Date: Fri Jan 27 19:13:11 PST 2012
+checkout -- CHANGELOG.md samples starling tests
+Date: Fri Jan 27 19:13:19 PST 2012
+checkout -- LICENSE.md
+Date: Fri Jan 27 19:13:33 PST 2012
+checkout -- README.md
+Date: Fri Jan 27 19:13:42 PST 2012
+pull
+Date: Fri Jan 27 19:14:18 PST 2012
+flow init
+Date: Fri Jan 27 20:14:34 PST 2012
+status 
+Date: Fri Jan 27 20:14:40 PST 2012
+add SeahorseGameX.as3proj
+Date: Fri Jan 27 20:14:48 PST 2012
+add SeahorseGameX.lxml
+Date: Fri Jan 27 20:14:53 PST 2012
+status 
+Date: Fri Jan 27 20:16:14 PST 2012
+add .gitignore
+Date: Fri Jan 27 20:16:18 PST 2012
+status 
+Date: Fri Jan 27 20:17:11 PST 2012
+add src
+Date: Fri Jan 27 20:17:13 PST 2012
+status 
+Date: Fri Jan 27 20:17:15 PST 2012
+commit -a
+Date: Fri Jan 27 20:18:47 PST 2012
+status 
+Date: Fri Jan 27 20:18:49 PST 2012
+log
+Date: Fri Jan 27 20:18:51 PST 2012
+status 
+Date: Fri Jan 27 20:34:14 PST 2012
+add AIR_readme.txt
+Date: Fri Jan 27 20:34:25 PST 2012
+add PackageApp.bat
+Date: Fri Jan 27 20:34:29 PST 2012
+add Run.bat
+Date: Fri Jan 27 20:34:33 PST 2012
+add SeahorseGame.as3proj
+Date: Fri Jan 27 20:34:37 PST 2012
+add application.xml
+Date: Fri Jan 27 20:34:42 PST 2012
+add bat
+Date: Fri Jan 27 20:34:46 PST 2012
+status 
+Date: Fri Jan 27 20:34:52 PST 2012
+status 
+Date: Sat Jan 28 09:34:08 PST 2012
+status 
+Date: Sat Jan 28 14:56:39 PST 2012
+branch -a
+Date: Sat Jan 28 14:56:43 PST 2012
+add src/org/mbayaq/seahorseGameX/Main.as
+Date: Sat Jan 28 14:57:05 PST 2012
+add src/org/mbayaq/seahorseGameX/controller/
+Date: Sat Jan 28 14:57:14 PST 2012
+add src/assets/gate.png
+Date: Sat Jan 28 14:57:21 PST 2012
+status 
+Date: Sat Jan 28 14:57:24 PST 2012
+help ci
+Date: Sat Jan 28 14:57:54 PST 2012
+help commit
+Date: Sat Jan 28 14:58:10 PST 2012
+commit -a
+Date: Sat Jan 28 15:00:10 PST 2012
+status 
+Date: Sat Jan 28 15:00:12 PST 2012
+log
+Date: Sat Jan 28 15:00:26 PST 2012
+status 
+Date: Sat Jan 28 15:06:58 PST 2012
+status 
+Date: Sat Jan 28 15:07:17 PST 2012
+checkout src/starling/core/Starling.as
+Date: Sat Jan 28 15:07:23 PST 2012
+status 
+Date: Sat Jan 28 15:07:24 PST 2012
+status 
+Date: Thu Feb  9 13:14:30 PST 2012
+status 
+Date: Thu Feb  9 18:22:15 PST 2012
+flow init
+Date: Thu Feb  9 18:23:18 PST 2012
+branch -a
+Date: Thu Feb  9 18:23:21 PST 2012
+status 
+Date: Thu Feb  9 18:23:47 PST 2012
+branch -a
+Date: Thu Feb  9 19:42:01 PST 2012
+branch -a
+Date: Thu Feb  9 19:47:29 PST 2012
+status 
+Date: Thu Mar  8 23:25:36 PST 2012
+diff src/org/mbayaq/drawAJelly/model/Assets.as
+Date: Thu Mar  8 23:26:07 PST 2012
+checkout src/org/mbayaq/drawAJelly/model/Assets.as
+Date: Thu Mar  8 23:26:27 PST 2012
+status 
+Date: Thu Mar  8 23:26:35 PST 2012
+diff src/org/mbayaq/drawAJelly/view/ApplicationView.as
+Date: Thu Mar  8 23:27:06 PST 2012
+status 
+Date: Thu Mar  8 23:27:12 PST 2012
+diff src/org/mbayaq/drawAJelly/view/layers/DrawingControlPanel.as
+Date: Thu Mar  8 23:27:26 PST 2012
+format-patch --stdout
+Date: Thu Mar  8 23:29:31 PST 2012
+format-patch --stdout
+Date: Thu Mar  8 23:30:43 PST 2012
+branch -a
+Date: Thu Mar  8 23:31:56 PST 2012
+format-patch feature/program-restructure --stdout
+Date: Thu Mar  8 23:32:19 PST 2012
+status 
+Date: Thu Mar  8 23:32:24 PST 2012
+>>>>>>> Latest Log
